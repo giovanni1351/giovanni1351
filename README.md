@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Giovanni!
 
-🎓 Formado em Ciência da Computação, com uma base teórica sólida e foco em desenvolvimento prático de soluções reais.  
+🎓 Formando em Ciência da Computação, com uma base teórica sólida e foco em desenvolvimento prático de soluções reais.  
 🐍 Especialista em **Python** e **Django**, apaixonado por desenvolvimento web, automações e integração de sistemas.  
 🏆 Competidor ativo em **maratonas de programação**, com experiência em resolução de problemas algorítmicos de alto nível.  
 
