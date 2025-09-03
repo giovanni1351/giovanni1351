@@ -8,13 +8,12 @@
 
 ## 💼 O que eu faço
 
-- Desenvolvimento de sistemas web escaláveis com **Django**
+- Desenvolvimento de sistemas web escaláveis com **Django** e FastAPI
 - Criação de **pipelines de dados e ETLs** com **Python** e **SSIS**
-- Projetos robustos com **SQL Server** e **MySQL**
+- Projetos robustos com **SQL Server** ,**MySQL** e **Postgres**
 - Scripts e automações para tarefas corporativas com **Python**
 - Desenvolvimento de aplicações desktop e serviços com **C#**
-- Programação de alto desempenho com **C++**
-- Desenvolvimento focado em produtividade com **PyCharm**
+- Programação de alto desempenho com **C++**, com experiencia em maratona de Programação
 
 ---
 
