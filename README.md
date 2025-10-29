@@ -44,11 +44,6 @@
 - Foco em performance, clareza de código e boas práticas
 
 ---
-<div align="center" display: flex>
-    <img height="185em" src="https://github-readme-stats.vercel.app/api?username=giovanni1351&show_icons=true&title_color=000000&text_color=eee3ee&icon_color=ffffff&bg_color=000000,111111,222222,333333,444444&locale=pt-br&hide_border=true&hide_title=true">
-</div>
-
-
 ## 📫 Vamos conversar?
 
 Você pode me encontrar por aqui:
