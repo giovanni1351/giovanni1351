@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o Giovanni!
 
 🎓 Formando em Ciência da Computação, com uma base teórica sólida e foco em desenvolvimento prático de soluções reais.  
-🐍 Especialista em **Python** e **Django**, apaixonado por desenvolvimento web, automações e integração de sistemas.  
+🐍 Especialista em **Python** e **FastAPI**, apaixonado por desenvolvimento web, automações e integração de sistemas.  
 🏆 Competidor ativo em **maratonas de programação**, com experiência em resolução de problemas algorítmicos de alto nível.  
 
 ---
@@ -10,7 +10,7 @@
 
 - Desenvolvimento de sistemas web escaláveis com **Django** e FastAPI
 - Criação de **pipelines de dados e ETLs** com **Python** e **SSIS**
-- Projetos robustos com **SQL Server** ,**MySQL** e **Postgres**
+- Projetos robustos com **SQL Server** ,**MySQL**, **Postgres**, **RabbitMQ**, **Minio** e **Redis** 
 - Scripts e automações para tarefas corporativas com **Python**
 - Desenvolvimento de aplicações desktop e serviços com **C#**
 - Programação de alto desempenho com **C++**, com experiencia em maratona de Programação
